@@ -12,8 +12,8 @@ body {
   font-size: 22px;
 }
 .line {
-  width: 15%;
-  height: 3px;
+  width: 8%;
+  height: 4px;
   background-color: rgb(185, 157, 127);
   border: 0;
 }
@@ -75,7 +75,7 @@ input[type="submit"]:hover {
   background-color: #8c9fdf;
 }
 textarea {
-  width: 73%;
+  width: 76%;
   padding: 14px 20px;
   margin: 8px 0;
   border-radius: 4px;
